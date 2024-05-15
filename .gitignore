@@ -7,4 +7,5 @@ resource/
 logs/
 
 *.log
+
 !error.log
